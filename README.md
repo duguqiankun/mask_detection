@@ -15,4 +15,5 @@ This is trained using Nvidia Transfer Toolkit [reference](https://developer.nvid
 
 
 
+![image](https://github.com/duguqiankun/mask_detection/blob/main/test_00000043.jpg)
 
